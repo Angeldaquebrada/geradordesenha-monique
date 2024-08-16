@@ -1,0 +1,22 @@
+:root{
+    --branco:white;
+    --corDeFundo: #669eda;
+    --fundoSenha: #1375e6;
+    --fundodetexto: #b3c0cf;
+    --borda: #062141;
+    --NewAmsterdam: "New Amsterdam";
+    --EduVICWANTBeginner:"Edu VIC WA NT Beginner";
+}
+
+body{
+    color: var(--branco);
+    background-color: var(--corDeFundo);
+}
+
+.titulo-principal{
+    font-family: var(--NewAmsterdam);
+}
+
+.titulo-secundario{
+    font-family: var(--EduVICWANTBeginner);
+}
